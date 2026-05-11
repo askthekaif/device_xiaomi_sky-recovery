@@ -2,7 +2,8 @@ export FOX_VIRTUAL_AB_DEVICE=1
 export OF_AB_DEVICE_WITH_RECOVERY_PARTITION=1
 export OF_FL_PATH1="/tmp/flashlight"
 export OF_ADVANCED_SECURITY=1
-export FOX_VARIANT="A14"
+export FOX_VARIANT="A12"
+export FOX_BUILD_TYPE="Stable"
 
 # Screen Settings 
 export OF_SCREEN_H=2460
